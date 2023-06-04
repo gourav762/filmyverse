@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background: black;
+    color: white;
+}
+.header{
+    background-color: rgb(34, 33, 33);
+}
+
+.card{
+    background-color: rgb(14, 13, 13)
+}
